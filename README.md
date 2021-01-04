@@ -1,2 +1,2 @@
-# predictive_analytics-
+# predictive_analytics
 Predictive_models 
